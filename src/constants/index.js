@@ -39,8 +39,11 @@ const performanceImages = [
 const performanceImgPositions = [
     {
         id: "p1",
-        left: 5,
+        desktop:{
+            left: 5,
         bottom: 65,
+    },
+        mobile:{}
     },
     {
         id: "p2",
