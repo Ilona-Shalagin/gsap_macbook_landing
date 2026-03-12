@@ -78,7 +78,6 @@ const Performance = () => {
                     />
                 ))}
             </div>
-
             <div className="content">
                 <p>
                     Run graphics-intensive workflows with a responsiveness that keeps up
